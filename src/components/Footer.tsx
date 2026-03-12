@@ -6,7 +6,7 @@ const Footer: React.FC = () => {
             <div className="footer-top">
                 <div className="footer-brand">
                     <a className="logo" href="#">
-                        <img src="/asset/img/hifood-logo.jpg" alt="Hifood Capital" className="logo-img" />
+                        <img src="/asset/img/hifoodvert.png" alt="Hifood Capital" className="logo-img" />
                     </a>
                     <p>Venture studio yang membangun dan mendanai bisnis terbaik di ekosistem F&B dan food supply Indonesia.</p>
                 </div>
