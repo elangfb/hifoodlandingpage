@@ -6,13 +6,7 @@ const Footer: React.FC = () => {
             <div className="footer-top">
                 <div className="footer-brand">
                     <a className="logo" href="#">
-                        <div className="logo-icon">
-                            <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                <path d="M3 14 Q9 3 15 14" stroke="white" strokeWidth="1.8" strokeLinecap="round" fill="none" />
-                                <circle cx="9" cy="11" r="2" fill="white" />
-                            </svg>
-                        </div>
-                        <span className="logo-text">hifood<span>capital</span></span>
+                        <img src="/asset/img/hifood-logo.jpg" alt="Hifood Capital" className="logo-img" />
                     </a>
                     <p>Venture studio yang membangun dan mendanai bisnis terbaik di ekosistem F&B dan food supply Indonesia.</p>
                 </div>

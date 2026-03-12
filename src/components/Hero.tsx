@@ -34,12 +34,7 @@ const Hero: React.FC = () => {
                     <div className="hero-panel">
                         <div className="panel-header">
                             <div className="panel-header-icon">
-                                <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
-                                    <circle cx="3" cy="9" r="2" stroke="#F95C2E" strokeWidth="1.4" />
-                                    <circle cx="15" cy="4" r="2" stroke="#F03F7E" strokeWidth="1.4" />
-                                    <circle cx="15" cy="14" r="2" stroke="#F03F7E" strokeWidth="1.4" />
-                                    <path d="M5 8.5L13 4.5M5 9.5L13 13.5" stroke="#F95C2E" strokeWidth="1.2" strokeDasharray="2 1.5" />
-                                </svg>
+                                <img src="/asset/img/hifood-logo.jpg" alt="Logo" style={{ width: '22px', height: '22px', borderRadius: '4px' }} />
                             </div>
                             <div><h4>Active Portfolio</h4><p>2025 cohort — 3 companies</p></div>
                         </div>

@@ -46,6 +46,11 @@ nav {
   display: flex; align-items: center; justify-content: center;
   flex-shrink: 0;
 }
+.logo-img {
+  height: 32px;
+  width: auto;
+  display: block;
+}
 .logo-text span { font-weight: 300; color: var(--mid); }
 
 .nav-links { display: flex; gap: 2rem; list-style: none; }
